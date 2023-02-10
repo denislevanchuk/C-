@@ -1,0 +1,15 @@
+C:\Users\Дензел\Desktop\examples\example007_magic\bin\Debug\net7.0\example007_magic.exe
+C:\Users\Дензел\Desktop\examples\example007_magic\bin\Debug\net7.0\example007_magic.deps.json
+C:\Users\Дензел\Desktop\examples\example007_magic\bin\Debug\net7.0\example007_magic.runtimeconfig.json
+C:\Users\Дензел\Desktop\examples\example007_magic\bin\Debug\net7.0\example007_magic.dll
+C:\Users\Дензел\Desktop\examples\example007_magic\bin\Debug\net7.0\example007_magic.pdb
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.csproj.AssemblyReference.cache
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.AssemblyInfoInputs.cache
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.AssemblyInfo.cs
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.csproj.CoreCompileInputs.cache
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.dll
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\refint\example007_magic.dll
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.pdb
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\example007_magic.genruntimeconfig.cache
+C:\Users\Дензел\Desktop\examples\example007_magic\obj\Debug\net7.0\ref\example007_magic.dll
